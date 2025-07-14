@@ -11,6 +11,6 @@
 - HTML5
 - CSS3 / SCSS
 - Flexbox
-- Адаптивная верстка (в процессе)
+- Адаптивная верстка
 - VS Code + Live Server
 ---

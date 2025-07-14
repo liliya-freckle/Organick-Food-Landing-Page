@@ -169,7 +169,7 @@ body {
 .banner {
     display: flex;
     width: 120rem;
-    width: 56.125rem;
+    height: 56.125rem;
     flex-direction: column;
     align-items: flex-start;
     gap: 23px;
